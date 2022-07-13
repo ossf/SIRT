@@ -49,7 +49,7 @@ Quick Start
 ## 
 **Meeting times**
 
-*   Every Tuesday @ 9:00am EST The invite is available on the [OpenSSF Community Calendar.](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+*   Every Tuesday @ 9:00am EST The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 *   [Meeting Minutes]([https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g](https://docs.google.com/document/d/15QhHFNza_kFb5OadcHV-c1yKATI4-dPfqBFIG0zjbUA/edit#))
 
 # 

@@ -43,7 +43,7 @@ from another open-source project’s security vulnerabilities
 # 
 **Get Involved**
 
-*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
+*   Official communications occur on the [OSSF OSS-SIRT Mailing list] (ex: https://lists.openssf.org/g/openssf-sig-ossirt/topics).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 *   [Add Slack information if availabable]
 

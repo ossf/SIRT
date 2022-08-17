@@ -1,4 +1,4 @@
-# **OSSF OSS-SIRT SIG**
+# **OpenSSF OSS-SIRT Special Interest Group (SIG)**
 
 
 The OSS-SIRT SIG (Open Source Software Security Incident Response Team Special Interest Group) is a group working within the OSSF's Vulnerability Disclosure Working Group that is focused on creating secure vulnerability management capabilities within the open source ecosystem to ensure effective coordinated vulnerability disclosure practices (CVD) for all.  The group will be a coordinated group of experts from across the industry who will be available to help

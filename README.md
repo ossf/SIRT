@@ -87,8 +87,8 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [Randall T. Vasquez, Gentoo]
 
 ### Project Contributors ###
-- [Arnaud J Le Hors, IBM]
-- [Art Manion, ANALYGENCE]
+- [Arnaud J Le Hors, IBM](https://github.com/lehors)
+- [Art Manion, ANALYGENCE](https://github.com/zmanion)
 - [Brian Behlendorf, Linux Foundation, OpenSSF]
 - [Deana Shick, Intel]
 - [Harimohan Rajamohanan, WiPro]

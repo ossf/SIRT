@@ -53,7 +53,7 @@ Quick Start
 
 *   Areas that need contributions
 *   Build information if applicable
-*   Where to file issues
+*   Where to file issues - https://github.com/ossf/SIRT/issues
 *   Etc.
 
 ## 
@@ -68,7 +68,31 @@ Quick Start
 [TODO: Update this link to your specific CHARTER.md file]
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
-
-[OPTIONAL]
 *   Lead name : [CRob](https://github.com/SecurityCRob)
 *   Co-Lead name : [Francis](https://github.com/u269c)
+
+### Project Maintainers ###
+- [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
+- [Francis Perron, Google](https://github.com/u269c)
+- [VM Brasseur, WiPro](https://github.com/)
+
+
+### Project Collaborators ###
+- [David A. Wheeler, Linux Foundation]
+- [Eric Tice, WiPro]
+- [Jennifer Mitchell, Tidelift]
+- [Madison Oliver, GitHub Security Lab](https://github.com/)Emily Fox
+- [Marta Rybczynska, OSTC]
+- [Randall T. Vasquez, Gentoo]
+
+### Project Contributors ###
+- [Arnaud J Le Hors, IBM]
+- [Art Manion, ANALYGENCE]
+- [Brian Behlendorf, Linux Foundation, OpenSSF]
+- [Deana Shick, Intel]
+- [Harimohan Rajamohanan, WiPro]
+- [Jack K, ControlPlane/nixpkgs]
+- [Josh Dembling, Intel]
+- [Langley Rock, Dell]
+- [Matt Rutkowski, IBM]
+- [Yotam Perkal, Rezilion]

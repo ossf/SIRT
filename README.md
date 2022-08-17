@@ -78,10 +78,11 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 
 ### Project Collaborators ###
-- [David A. Wheeler, Linux Foundation]
+- [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
+- [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
 - [Eric Tice, WiPro]
 - [Jennifer Mitchell, Tidelift]
-- [Madison Oliver, GitHub Security Lab](https://github.com/)Emily Fox
+- [Madison Oliver, GitHub Security Lab](https://github.com/)
 - [Marta Rybczynska, OSTC]
 - [Randall T. Vasquez, Gentoo]
 

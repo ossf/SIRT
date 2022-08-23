@@ -12,4 +12,8 @@ for an industry-wide security risk, and have no choice but to try to remediate i
 often without the specialist security knowledge and coordinated disclosure connections to
 do so safely.
 
-# Our Proposal
+
+## The Proposed Plan
+- [1.0 Understand the Problem Space](https://github.com/ossf/SIRT/blob/main/plan/1.0%20Understand%20the%20problem%20space.md)
+- [2.0 Identify Core Services](https://github.com/ossf/SIRT/blob/main/plan/2.0%20Identify%20Core%20Services%20and%20Processes.md)
+- [3.0 Execution](https://github.com/ossf/SIRT/blob/main/plan/3.0%20Execution.md)

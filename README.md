@@ -84,7 +84,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [Jennifer Mitchell, Tidelift]
 - [Madison Oliver, GitHub Security Lab](https://github.com/)
 - [Marta Rybczynska, OSTC]
-- [Randall T. Vasquez, Gentoo]
+- [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
 
 ### Project Contributors ###
 - [Arnaud J Le Hors, IBM](https://github.com/lehors)

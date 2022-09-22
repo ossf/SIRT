@@ -7,8 +7,9 @@ open source maintainers with all aspects of remediating high-impact security vul
 ## 
 **Motivation**
 
-[Background / use cases of the problem to be solved]
+Historically, Open Source maintainers and end users have depended on a circle of trust to distribute and consume Open Source Software safely. Over the last several years, this concept has proven to be problematic and sub-optimal by itself with the increase of attacks targeting open source maintainers as well as the components they create and maintain. Effectively, these problems have illustrated additional effort and work are required to ensure that both Consumers and End Users of maintainers are consuming Open Source Software safely while still their needs met with the least friction to their overall intent and objective in maintaining their software. As it presently stands, this type of work traditionally is the responsibility of a project's Maintainer group; however, frequently, the Maintainer(s) already lack sufficient resources to address their own needs adequately let alone take on the additional work being asked of them to develop and provide their open source component in secure manner acceptable to anyone using it. Piling on more work to the already stressed pipeline and burdened maintainers often results in Security not being prioritized until a Security issue becomes forefront, which is often too late for a project's Consumers and End Users.
 
+This SIRT's motivation is to make available the incident response resources to assist Open Source Software communities, downstream consumers, and vulnerability management ecosystems in addressing their current and upcoming Security issues, vulnerabilities, incidents, and the processes necessary for their execution. We intend to deliver service offerings to projects that provide an additional support arm against incidents, like `log4shell`, which are otherwise not available to these projects. We hope these efforts will assist in addressing critical and time-sensitive Security issues across the Open Source Software communities that participate in the program.
 
 ## 
 **Objective**
@@ -71,13 +72,13 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 *   Lead name : [CRob](https://github.com/SecurityCRob)
 *   Co-Lead name : [Francis](https://github.com/u269c)
 
-### Project Maintainers ###
+### Project Maintainers
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 - [Francis Perron, Google](https://github.com/u269c)
 - [VM Brasseur, WiPro](https://github.com/)
 
 
-### Project Collaborators ###
+### Project Collaborators
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
 - [Eric Tice, WiPro]
@@ -86,7 +87,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [Marta Rybczynska, OSTC]
 - [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
 
-### Project Contributors ###
+### Project Contributors
 - [Arnaud J Le Hors, IBM](https://github.com/lehors)
 - [Art Manion, ANALYGENCE](https://github.com/zmanion)
 - [Brian Behlendorf, Linux Foundation, OpenSSF]

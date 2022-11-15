@@ -32,12 +32,15 @@ jobs:
       ##########################
       # Checkout the code base #
       ##########################
-      - name: Checkout Code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v2
+        if: github.event_name == 'pull_request'
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          # Full git history is needed to get a proper
-          # list of changed files within `super-linter`
+            fetch-depth: 0
+            ref: ${{ github.event.pull_request.head.ref }}
+
+      - uses: actions/checkout@v2
+        if: github.event_name == 'push'
+        with:
           fetch-depth: 0
 
       ############################################

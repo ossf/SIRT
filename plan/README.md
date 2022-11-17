@@ -1,6 +1,6 @@
 # The Problem:
-The next world-altering critical open-source software vulnerability like Heartbleed or
-Log4Shell is almost certainly already existing, undiscovered, somewhere in our codebases
+The next world-altering critical open-source software vulnerability like [Heartbleed](https://heartbleed.com/) or
+[Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) is almost certainly already existing, undiscovered, somewhere in our codebases
 today. When these vulnerabilities are eventually discovered by either a friendly researcher
 or a malicious threat actor, open-source maintainers need to make quick decisions that
 can dramatically impact the cybersecurity posture of entire industries. With this in mind,
@@ -11,6 +11,8 @@ Consequently, developers are suddenly (and sometimes unknowingly) indirectly res
 for an industry-wide security risk, and have no choice but to try to remediate it alone —
 often without the specialist security knowledge and coordinated disclosure connections to
 do so safely.
+
+In May of 2022, the OpenSSF developed a 10 stream plan to address this and several other ecosystem-wide security topics as part of the [Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/).  Stream 5 set forth the initial framework to Establish an OpenSSF Incident Response Team of security experts to assist open source projects accelerate their responses to newly discovered vulnerabilities.
 
 
 ## The Proposed Plan

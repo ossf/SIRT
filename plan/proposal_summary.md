@@ -1,7 +1,7 @@
 # Stream 5 proposal summary
 
 Goal                 Target to Start                   Resource Requirements            Funding Requirements
-1) Collect and Curate Content
+1) Understand the Problem Space
 
 ### Time & Resource Estimate
 
@@ -15,8 +15,7 @@ Goal                 Target to Start                   Resource Requirements    
 > - Estimated Total Combined Volunteer Hours: 
 > - Estimated # FTEs/other Expenses:
 
-2) Expand Training
-
+2) Identify Core Services
 
 ### Time & Resource Estimate
 
@@ -31,7 +30,7 @@ Goal                 Target to Start                   Resource Requirements    
 > - Estimated # FTEs/other Expenses:
 
 
-3) Reward and Incentive Developers & Maintainers
+3) Execution
 
 ### Time & Resource Estimate
 

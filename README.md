@@ -23,12 +23,13 @@ This SIRT's motivation is to make available the incident response resources to a
 To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated and experienced group of security professionals
 
 **_EXPRESSLY OUT OF SCOPE:_**
-⊲ Anything involving vulnerabilities in closed-source/proprietary software
-⊲ Security improvements to open-source software that are not tactically essential to the
-patching of newly-reported, high- and critical-impact vulnerabilities in open-source
-software
-⊲ Helping projects or individual enterprises with remediating their security exposures
-from another open-source project’s security vulnerabilities
+
+- Anything involving vulnerabilities in closed-source/proprietary software
+- Security improvements to open-source software that are not tactically essential to the
+  patching of newly-reported, high- and critical-impact vulnerabilities in open-source
+  software
+- Helping projects or individual enterprises with remediating their security exposures
+  from another open-source project’s security vulnerabilities
 
 ## Prior Work
 

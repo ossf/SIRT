@@ -21,15 +21,8 @@ Historically, Open Source maintainers and end users have depended on a circle of
 
 This SIRT's motivation is to make available the incident response resources to assist Open Source Software communities, downstream consumers, and vulnerability management ecosystems in addressing their current and upcoming Security issues, vulnerabilities, incidents, and the processes necessary for their execution. We intend to deliver service offerings to projects that provide an additional support arm against incidents, like `log4shell`, which are otherwise not available to these projects. We hope these efforts will assist in addressing critical and time-sensitive Security issues across the Open Source Software communities that participate in the program.
 
-## Objective
+## Objective/Scope
 
-[What is to be achieved with this initiative]
-
-[OKRs - OPTIONAL]
-
-## Scope
-
-[What is in and out of scope]
 To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated and experienced group of security professionals
 
 **_EXPRESSLY OUT OF SCOPE:_**
@@ -75,30 +68,24 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - Co-Lead name: [Francis](https://github.com/u269c)
 
 ### Project Maintainers
-
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 - [Francis Perron, Google](https://github.com/u269c)
-- [VM Brasseur, WiPro](https://github.com/)
+- [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
+
 
 ### Project Collaborators
-
 - [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
 - [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
 - [Eric Tice, WiPro]
 - [Jennifer Mitchell, Tidelift]
 - [Madison Oliver, GitHub Security Lab](https://github.com/)
 - [Marta Rybczynska, OSTC]
-- [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
+- [VM Brasseur, WiPro](https://github.com/)
+- [Marta Rybczynska](https://github.com/)
+- [Art Manion, ANALYGENCE](https://github.com/zmanion)
+
 
 ### Project Contributors
-
-- [Arnaud J Le Hors, IBM](https://github.com/lehors)
-- [Art Manion, ANALYGENCE](https://github.com/zmanion)
-- [Brian Behlendorf, Linux Foundation, OpenSSF]
-- [Deana Shick, Intel]
-- [Harimohan Rajamohanan, WiPro]
-- [Jack K, ControlPlane/nixpkgs]
-- [Josh Dembling, Intel]
-- [Langley Rock, Dell]
 - [Matt Rutkowski, IBM]
-- [Yotam Perkal, Rezilion]
+- [Avashay Balter, Microsoft](https://github.com/)
+- [Arnaud J Le Hors, IBM](https://github.com/lehors)

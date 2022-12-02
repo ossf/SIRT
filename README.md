@@ -5,6 +5,16 @@
 The OSS-SIRT SIG (Open Source Software Security Incident Response Team Special Interest Group) is a group working within the OSSF's Vulnerability Disclosure Working Group that is focused on creating secure vulnerability management capabilities within the open source ecosystem to ensure effective coordinated vulnerability disclosure practices (CVD) for all. The group will be a coordinated group of experts from across the industry who will be available to help
 open source maintainers with all aspects of remediating high-impact security vulnerabilities and related security emergencies
 
+## Mission
+
+To empower and coordinate open source security teams and open source software projects to be self-sufficient with respect to handling vulnerabilities in their software, and improve itself through lessons learned from its engagement.
+
+## Our promise to the maintainers and consumers of OSS
+
+The SIRT will respond and collaborate with open source software project's requests for assistance, guidance, and support. Through the SIRT's offerings, open source software projects may expect to receive helpful and inclusive recommendations or direction in the handling, processing, communications, and general management of suspected and confirmed vulnerabilities and findings reported to them, directly or by proxy in a manner that considers the project's existing response processes.
+
+In the course of serving open source projects, the SIRT will consider all information provided, seek to understand any outside influences or additional factors to be considered prior to engaging, and render a decision on engagement and execution accordingly. The SIRT shall balance the needs and constraints of the projects requesting support, as well as the needs of the consumers of those projects to the practical extent possible.
+
 ## Motivation
 
 Historically, Open Source maintainers and end users have depended on a circle of trust to distribute and consume Open Source Software safely. Over the last several years, this concept has proven to be problematic and sub-optimal by itself with the increase of attacks targeting open source maintainers as well as the components they create and maintain. Effectively, these problems have illustrated additional effort and work are required to ensure that both Consumers and End Users of maintainers are consuming Open Source Software safely while still, having their needs met with the least friction to their overall intent and objective in maintaining their software. As it presently stands, this type of work traditionally is the responsibility of a project's Maintainer group; however, frequently, the Maintainer(s) already lack sufficient resources to address their own needs adequately let alone take on the additional work being asked of them to develop and provide their open source component in a secure manner acceptable to anyone using it. Piling on more work to the already stressed pipeline and burdened maintainers often results in Security not being prioritized until a Security issue becomes the forefront, which is often too late for a project's Consumers and End Users.

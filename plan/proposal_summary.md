@@ -4,7 +4,7 @@
 
 Goal Target to Start Resource Requirements Funding Requirements
 
-## 1. Understand the Problem Space
+## 1. [Understand the Problem Space](https://github.com/ossf/SIRT/blob/main/plan/1.0%20Understand%20the%20Problem%20Space.md)
 
 ### Time & Resource Estimate
 #### YEAR 1
@@ -21,7 +21,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 
 ---
 
-## 2. Identify Core Services
+## 2. [Identify Core Services](https://github.com/ossf/SIRT/blob/main/plan/2.0%20Identify%20Core%20Services%20and%20Processes.md)
 
 ### Time & Resource Estimate
 #### YEAR 1
@@ -45,7 +45,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 
 ---
 
-## 3. Execution
+## 3. [Execution](https://github.com/ossf/SIRT/blob/main/plan/3.0%20Execution.md)
 
 ### Time & Resource Estimate
 #### YEAR 1
@@ -69,6 +69,14 @@ Goal Target to Start Resource Requirements Funding Requirements
 > - Estimated # FTEs/other Expenses: 1 FTE (OSS-SIRT PgM) - $300,000 + Tooling Costs (TBD)
 
 ---
+## Risks and Challenges
+> - Community may be slow in uptake of OSS-SIRT's services
+> - Community may not accept OSS-SIRT's services
+> - Community response may be greater than anticipated
+> - Volunteer cohort may be challenging to get members to commit to (dedicating staff for dedicate upstream work may conflict with current duties)
+> - Volunteer cohort member could inadvertently break embargo of incident being coordinated through OSS-SIRT
+> - OSS-SIRT may not be able to find maintainer/project for reported vulnerability
 
+---
 Footnotes:
 [^1]:

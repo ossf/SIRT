@@ -7,7 +7,9 @@ Goal Target to Start Resource Requirements Funding Requirements
 ## 1. [Understand the Problem Space](https://github.com/ossf/SIRT/blob/main/plan/1.0%20Understand%20the%20Problem%20Space.md)
 
 ### Time & Resource Estimate
+
 #### YEAR 1
+
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G1.1      |         >3           |          20- 41       |           xx            | ➡️ Y1 |
@@ -24,7 +26,9 @@ Goal Target to Start Resource Requirements Funding Requirements
 ## 2. [Identify Core Services](https://github.com/ossf/SIRT/blob/main/plan/2.0%20Identify%20Core%20Services%20and%20Processes.md)
 
 ### Time & Resource Estimate
+
 #### YEAR 1
+
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G2.1      |         4-5          |          20-25        |           xx           | ➡️ Y1 |
@@ -34,6 +38,7 @@ Goal Target to Start Resource Requirements Funding Requirements
 | G2.4.2    |         >8           |          280-680      |           xx           | ➡️ Y1 |
 
 #### YEAR 2
+
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G2.2      |         >5           |          40-50        |           xx           | ➡️ Y2 |
@@ -48,7 +53,9 @@ Goal Target to Start Resource Requirements Funding Requirements
 ## 3. [Execution](https://github.com/ossf/SIRT/blob/main/plan/3.0%20Execution.md)
 
 ### Time & Resource Estimate
+
 #### YEAR 1
+
 | Milestone | Estimated Volunteers | Estimated Total Hours | Estimated FTEs/Expenses | Stage |
 | :-------: | :------------------: | :-------------------: | :---------------------: | :---: |
 | G3.1      |         >5           |          72-84        |     1 Pgm $300K annual  | ➡️ Y1 |
@@ -75,7 +82,9 @@ Goal Target to Start Resource Requirements Funding Requirements
 > - Tooling Costs (TBD)
 
 ---
+
 ## Risks and Challenges
+
 > - Community may be slow in uptake of OSS-SIRT's services
 > - Community may not accept OSS-SIRT's services
 > - Community response may be greater than anticipated

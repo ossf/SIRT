@@ -60,13 +60,17 @@ Goal Target to Start Resource Requirements Funding Requirements
 
 > - Estimated # Volunteers:5
 > - Estimated Total Combined Volunteer Hours: Y1 578-716
-> - Estimated # FTEs/other Expenses: 1 FTE (OSS-SIRT PgM) - $300,000 + Tooling Costs (TBD)
+>   - 1 FTE OSS-SIRT Program Management - $300,000
+>   - 1 FTE OSS-SIRT Direct Services - $300,000 [^1]
+>   - Tooling Costs (TBD)
 
 ## TOTAL
 
 > - Estimated # Volunteers: 8
 > - Estimated Total Combined Volunteer Hours:  1,720 - 2,926
-> - Estimated # FTEs/other Expenses: 1 FTE (OSS-SIRT PgM) - $300,000 + Tooling Costs (TBD)
+>   - 1 FTE OSS-SIRT Program Management - $300,000
+>   - 1 FTE OSS-SIRT Direct Services - $300,000 [^1]
+>   - Tooling Costs (TBD)
 
 ---
 ## Risks and Challenges
@@ -79,4 +83,4 @@ Goal Target to Start Resource Requirements Funding Requirements
 
 ---
 Footnotes:
-[^1]:
+[^1]: The Direct Services position provides the minimum level of operational support and is not explicitly defined in the plan details. Effort provided by position would be counted against Volunteer effort under [3. Execution](proposal_summary.md#3-execution).

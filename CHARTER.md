@@ -8,9 +8,9 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 ## 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is To empower and coordinate open source security teams and open source software projects to be self-sufficient with respect to handling vulnerabilities in their software, and improve itself through lessons learned from its engagement.
+- a. The mission of the Technical Initiative is to (1) empower and coordinate open source security teams and open source software projects to be self-sufficient with respect to handling vulnerabilities and (2) improve the Initiative through lessons learned from its engagement.
 
-- b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
+- b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission. This development includes organizing collaboration activities, defining best practices, testing, integration, and the creation documentation and other artifacts that support the mission.
 
 ## 2. Technical Steering Committee
 

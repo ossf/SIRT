@@ -41,7 +41,6 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
 
 [The OpenSSF's Mobilization Plan - Stream 5](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
 
-- List of prior and/or related projects
 
 ## Get Involved
 
@@ -53,19 +52,16 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
 ### Quick Start
 
 - Areas that need contributions
-- Build information if applicable
+- [ ] Comments/feedback on the plan or services you'd like to see the OSS-SIRT offer
 - Where to file issues - [https://github.com/ossf/SIRT/issues](https://github.com/ossf/SIRT/issues)
-- Etc.
 
 ### Meeting times
 
 - Every Tuesday @ 9:00 am EST The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 - [2023 Meeting Minutes](https://docs.google.com/document/d/1sqj3VWKb2ohcOqk9IlD_Ms-2ics6a02dUiDHB0Z1kxY/edit#heading=h.9m0zi4b0wnne) are recorded in google docs
 - [2022 Meeting Minutes](https://docs.google.com/document/d/15QhHFNza_kFb5OadcHV-c1yKATI4-dPfqBFIG0zjbUA/edit#)
-- 
+ 
 ### Governance
-
-[TODO: Update this link to your specific CHARTER.md file]
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
 - Lead name: [CRob](https://github.com/SecurityCRob)

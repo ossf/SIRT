@@ -2,7 +2,7 @@
 
 OSS-SIRT SIG
 
-Adopted [DATE]
+Adopted by SIG Vote on 7Decemeber2022
 
 This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the OSS-SIRT SIG open source community, which has been established as a Special Interest Group (SIG) (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”)'s Vulnerability Disclosures Working Group. All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter.
 

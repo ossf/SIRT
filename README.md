@@ -55,7 +55,7 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
 ### Quick Start
 - The OSS-SIRT proposed [plan](https://github.com/ossf/SIRT/tree/main/plan)
 - Areas that need contributions
-- [ ] Comments/feedback on the plan or services you'd like to see the OSS-SIRT offer
+- Comments/feedback on the plan or services you'd like to see the OSS-SIRT offer
 - Where to file issues - [https://github.com/ossf/SIRT/issues](https://github.com/ossf/SIRT/issues)
 
 ### Meeting times

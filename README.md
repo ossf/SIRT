@@ -76,6 +76,4 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 
 ### Project Contributors
-- [Matt Rutkowski, IBM]
-- [Avashay Balter, Microsoft](https://github.com/)
-- [Arnaud J Le Hors, IBM](https://github.com/lehors)
+ 

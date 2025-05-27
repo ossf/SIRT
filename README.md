@@ -42,8 +42,8 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
 
 ## Prior Work
 
-[The OpenSSF's Mobilization Plan - Stream 5](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
-
+- [The OpenSSF's Mobilization Plan - Stream 5](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
+- [2023 OSS-SIRT Proposal](https://github.com/ossf/SIRT/tree/main/Archived/2022-2023/plan)
 
 ## Get Involved
 
@@ -53,39 +53,26 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
   [wg_vulnerability-disclosures](https://openssf.slack.com/messages/wg_vulnerability_disclosures)
 
 ### Quick Start
-- The OSS-SIRT proposed [plan](https://github.com/ossf/SIRT/tree/main/plan)
+
 - Areas that need contributions
 - Comments/feedback on the plan or services you'd like to see the OSS-SIRT offer
 - Where to file issues - [https://github.com/ossf/SIRT/issues](https://github.com/ossf/SIRT/issues)
 
 ### Meeting times
 
-- Every Tuesday @ 9:00 am EST The invite is available on the [OpenSSF Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
-- [2023 Meeting Minutes](https://docs.google.com/document/d/1sUZNQgU6E5lha7WH0_9YOvoegLeLTs9dv9QZj8dwjJM/edit?usp=sharing) are recorded in google docs
-- [2022 Meeting Minutes](https://docs.google.com/document/d/1U9svMNW0KbIeaTKxqIhJ2GyHBn2J4iQWTYAPeY9CdOw/edit?usp=sharing)
+ 
  
 ### Governance
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
-- Lead name: [CRob](https://github.com/SecurityCRob)
-- Co-Lead name: [Francis](https://github.com/u269c)
+ 
 
 ### Project Maintainers
-- [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
-- [Francis Perron, Google](https://github.com/u269c)
-- [Randall T. Vasquez, Gentoo](https://github.com/ran-dall)
+ 
 
 
 ### Project Collaborators
-- [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
-- [Emily Fox, Apple, CNCF TOC](https://github.com/TheFoxAtWork)
-- [Eric Tice, WiPro]
-- [Jennifer Mitchell, Tidelift]
-- [Madison Oliver, GitHub Security Lab](https://github.com/)
-- [Marta Rybczynska, OSTC]
-- [VM Brasseur, WiPro](https://github.com/)
-- [Marta Rybczynska](https://github.com/)
-- [Art Manion, ANALYGENCE](https://github.com/zmanion)
+ 
 
 
 ### Project Contributors

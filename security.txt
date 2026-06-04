@@ -1,0 +1,14 @@
+# OSS-SIRT security.txt
+# Open Source Security Incident Response Team
+# Coordinated Vulnerability Disclosure contact information (RFC 9116).
+# Preferred reporting channel for GitHub-hosted projects is GitHub
+# private vulnerability reporting (the repository "Security" tab).
+
+Contact: mailto:security@oss-sirt.linuxfoundation.org
+Contact: https://oss-sirt.linuxfoundation.org/security/report
+Expires: 2027-06-03T00:00:00.000Z
+Encryption: https://oss-sirt.linuxfoundation.org/.well-known/pgp-key.txt
+Policy: https://oss-sirt.linuxfoundation.org/security/policy
+Acknowledgments: https://oss-sirt.linuxfoundation.org/security/hall-of-fame
+Preferred-Languages: en
+Canonical: https://oss-sirt.linuxfoundation.org/.well-known/security.txt

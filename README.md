@@ -1,11 +1,11 @@
 <!-- markdownlint-disable MD024 -->
 
 
-# OpenSSF OSS-SIRT Special Interest Group (SIG)
+# OpenSSF OSS-SIRT
 
 [![GitHub Super-Linter](https://github.com/ossf/sirt/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-The OSS-SIRT SIG (Open Source Software Security Incident Response Team Special Interest Group) is a group working within the OSSF's Vulnerability Disclosure Working Group that is focused on creating secure vulnerability management capabilities within the open source ecosystem to ensure effective coordinated vulnerability disclosure practices (CVD) for all. The group will be a coordinated group of experts from across the industry who will be available to help
+The OSS-SIRT SIG (Open Source Software Security Incident Response Team Special Interest Group) is a group working within the OpenSSF and broader Linux Foundation that is focused on creating secure vulnerability management capabilities within the open source ecosystem to ensure effective coordinated vulnerability disclosure practices (CVD) for all. The group will be a coordinated group of experts from across the industry who will be available to help
 open source maintainers with all aspects of remediating high-impact security vulnerabilities and related security emergencies
 
 <img align="right" src="https://github.com/ossf/SIRT/blob/main/Archived/2022-2023/plan/ossf-goose-sirt-sig.png" width="400" height="400">
@@ -13,7 +13,14 @@ open source maintainers with all aspects of remediating high-impact security vul
 
 ## Mission
 
-To empower and coordinate open source security teams and open source software projects to be self-sufficient with respect to handling vulnerabilities in their software, and improve itself through lessons learned from its engagement.
+OSS-SIRT’s mission is to reduce systemic risk in open source software by providing a neutral, maintainer-respecting security incident response capability that validates vulnerability reports, coordinates remediation, enables responsible disclosure, and delivers trusted vulnerability data to the ecosystem.
+
+## Vision
+A resilient open source ecosystem where vulnerabilities are responsibly discovered, quickly validated, effectively remediated, clearly disclosed, and reliably communicated to every stakeholder that depends on open source software.
+
+## Strategy
+OSS-SIRT will build a trusted, operational bridge across the open source security ecosystem by filtering vulnerability noise, producing high-quality disclosure packages, coordinating upstream and downstream remediation, publishing accurate vulnerability metadata, and scaling repeatable CVD practices through partnerships, tooling, and transparent metrics.
+
 
 ## Our promise to the maintainers and consumers of OSS
 
@@ -29,7 +36,7 @@ This SIRT's motivation is to make available the incident response resources to a
 
 ## Objective/Scope
 
-To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated and experienced group of security professionals
+To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated and experienced group of security professionals to assist the ecosystem quickly, efficinetly, and securely coordinate vulneratbiltiies disclosures discovered within open source software projects.
 
 **_EXPRESSLY OUT OF SCOPE:_**
 
@@ -39,11 +46,6 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
   software
 - Helping projects or individual enterprises with remediating their security exposures
   from another open-source project’s security vulnerabilities
-
-## Prior Work
-
-- [The OpenSSF's Mobilization Plan - Stream 5](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf?hsCtaTracking=3b79d59d-e8d3-4c69-a67b-6b87b325313c%7C7a1a8b01-65ae-4bac-b97c-071dac09a2d8)
-- [2023 OSS-SIRT Proposal](https://github.com/ossf/SIRT/tree/main/Archived/2022-2023/plan)
 
 ## Get Involved
 

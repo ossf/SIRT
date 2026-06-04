@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.6.0",
+  "id": "OSS-SIRT-0000-0000",
+  "aliases": [
+    "CVE-0000-00000",
+    "GHSA-xxxx-xxxx-xxxx"
+  ],
+  "related": [],
+  "modified": "2026-06-03T00:00:00Z",
+  "published": "2026-06-03T00:00:00Z",
+  "withdrawn": null,
+  "summary": "Short one-line title of the vulnerability in PROJECT",
+  "details": "Plain-language description of the vulnerability, its impact, the conditions required to exploit it, and any configurations that are or are not affected. Markdown is allowed.",
+  "severity": [
+    {
+      "type": "CVSS_V4",
+      "score": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N"
+    },
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "affected": [
+    {
+      "package": {
+        "ecosystem": "REPLACE_WITH_ECOSYSTEM",
+        "name": "REPLACE_WITH_PACKAGE_NAME",
+        "purl": "pkg:ecosystem/name"
+      },
+      "severity": [],
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            { "introduced": "1.4.0" },
+            { "fixed": "1.6.3" }
+          ]
+        },
+        {
+          "type": "GIT",
+          "repo": "https://github.com/ORG/REPO",
+          "events": [
+            { "introduced": "0000000000000000000000000000000000000000" },
+            { "fixed": "1111111111111111111111111111111111111111" }
+          ]
+        }
+      ],
+      "versions": [],
+      "ecosystem_specific": {},
+      "database_specific": {}
+    }
+  ],
+  "references": [
+    { "type": "ADVISORY", "url": "https://oss-sirt.linuxfoundation.org/security/advisories/OSS-SIRT-0000-0000" },
+    { "type": "FIX", "url": "https://github.com/ORG/REPO/commit/1111111111111111111111111111111111111111" },
+    { "type": "WEB", "url": "https://github.com/ORG/REPO/releases/tag/v1.6.3" },
+    { "type": "REPORT", "url": "https://github.com/ORG/REPO/security/advisories/GHSA-xxxx-xxxx-xxxx" }
+  ],
+  "credits": [
+    {
+      "name": "Finder name or handle",
+      "contact": [],
+      "type": "FINDER"
+    },
+    {
+      "name": "OSS-SIRT",
+      "contact": [ "mailto:security@oss-sirt.linuxfoundation.org" ],
+      "type": "COORDINATOR"
+    }
+  ],
+  "database_specific": {
+    "cwe_ids": [ "CWE-000" ],
+    "tracking_id": "OSS-SIRT-INTERNAL-ID"
+  }
+}

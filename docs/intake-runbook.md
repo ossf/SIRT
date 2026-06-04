@@ -1,9 +1,9 @@
 # OSS-SIRT Intake Runbook (one page)
 
 Step-by-step actions for the responder on duty, keyed to the nine-phase
-lifecycle in the [CVD Policy](./coordinated-vulnerability-disclosure-policy.md).
+lifecycle in the [CVD Policy](https://github.com/ossf/SIRT/blob/main/coordinated-vulnerability-disclosure-policy.md).
 Templates referenced below are in
-[notification-templates.md](./notification-templates.md). Default handling for
+[notification-templates.md](https://github.com/ossf/SIRT/tree/main/templates). Default handling for
 all pre-disclosure material is **TLP:RED / need-to-know**.
 
 ```

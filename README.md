@@ -5,7 +5,7 @@
 
 [![GitHub Super-Linter](https://github.com/ossf/sirt/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-The OSS-SIRT (Open Source Software Security Incident Response Team Special Interest Group) is a group working within the OpenSSF and broader Linux Foundation that is focused on creating secure vulnerability management capabilities within the open source ecosystem to ensure effective coordinated vulnerability disclosure practices (CVD) for all. The group will be a coordinated group of experts from across the industry who will be available to help
+The OSS-SIRT (Open Source Software Security Incident Response Team) is a group working within the OpenSSF and broader Linux Foundation that is focused on creating secure vulnerability management capabilities within the open source ecosystem to ensure effective coordinated vulnerability disclosure practices (CVD) for all. The group will be a coordinated group of experts from across the industry who will be available to help
 open source maintainers with all aspects of remediating high-impact security vulnerabilities and related security emergencies
 
 <img align="right" src="https://github.com/ossf/SIRT/blob/main/Archived/2022-2023/plan/ossf-goose-sirt-sig.png" width="400" height="400">

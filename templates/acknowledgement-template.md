@@ -6,8 +6,8 @@ receipt. Pick the variant matching the channel the report arrived on. Replace
 every `{{PLACEHOLDER}}` before sending.
 
 This is the standalone version of **Template 1** referenced in the
-[Intake Runbook](./intake-runbook.md) (step 1, Discover) and
-[Notification Templates](./notification-templates.md).
+[Intake Runbook](.docs//intake-runbook.md) (step 1, Discover) and
+[Notification Templates](./templates/notification-templates.md).
 
 ---
 

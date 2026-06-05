@@ -70,9 +70,9 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
  
 
 ### Project Maintainers
-[CRob](https://github.com/SecurityCRob)
-[OSS-SIRT Director]()
-[OSS-SIRT Team Lead]()
+- [CRob](https://github.com/SecurityCRob)
+- OSS-SIRT Director
+- OSS-SIRT Team Lead
 
 ### Project Collaborators
  

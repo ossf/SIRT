@@ -51,8 +51,8 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
 
 - Official communications occur on the [OSSF OSS-SIRT Mailing list](https://lists.openssf.org/g/openssf-sig-osssirt/topics).  
   [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-- Slack Channels - [stream-05-incident-response](https://openssf.slack.com/messages/stream-05-vulnerability-disclosure),
-  [wg_vulnerability-disclosures](https://openssf.slack.com/messages/wg_vulnerability_disclosures)
+- Slack Channels - [OSS-SIRT]( ),
+  General Discussion  [Vulnerability Disclosures working group](https://openssf.slack.com/messages/wg_vulnerability_disclosures)
 
 ### Quick Start
 

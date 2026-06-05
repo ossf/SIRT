@@ -6,8 +6,8 @@ receipt. Pick the variant matching the channel the report arrived on. Replace
 every `{{PLACEHOLDER}}` before sending.
 
 This is the standalone version of **Template 1** referenced in the
-[Intake Runbook](.docs//intake-runbook.md) (step 1, Discover) and
-[Notification Templates](./templates/notification-templates.md).
+[Intake Runbook](https://github.com/ossf/SIRT/blob/main/docs/intake-runbook.md) (step 1, Discover) and
+[Notification Templates](https://github.com/ossf/SIRT/blob/main/templates/notification-templates.md).
 
 ---
 

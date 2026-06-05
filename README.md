@@ -65,7 +65,7 @@ To develop a cohort of trustworthy, vendor-neutral, vetted, well-orchestrated an
  
  
 ### Governance
-The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
+The [CHARTER.md](./CHARTER.md) outlines the scope and governance of our group activities.
 
  
 

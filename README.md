@@ -71,6 +71,7 @@ The [CHARTER.md](./CHARTER.md) outlines the scope and governance of our group ac
 
 ### Project Maintainers
 - [CRob](https://github.com/SecurityCRob)
+- [Francis](u269c)
 - OSS-SIRT Director
 - OSS-SIRT Team Lead
 
